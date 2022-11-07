@@ -7,3 +7,6 @@
 
   #### Courses
     * [W3 School](https://www.w3schools.com/aws/aws_cloudessentials_cloudcomputing.php)
+    
+## Badges
+  * https://aws.amazon.com/training/badges/#
